@@ -6,7 +6,7 @@
 !CHANGELOG.md
 !LICENSE
 !.bash_aliases.example
-!.env.example
+
 
 !docker-compose-t2.yml
 !docker-compose-t2-obsolete.yml
