@@ -125,7 +125,7 @@ services:
       - --certificatesResolvers.dns-cloudflare.acme.dnsChallenge.delayBeforeCheck=90 # To delay DNS check and reduce LE hitrate
     networks:
       t2_proxy:
-        ipv4_address: 192.168.90.254 # You can specify a static IP
+        ipv4_address: #192.168.90.254 # You can specify a static IP
       socket_proxy:
     security_opt:
       - no-new-privileges:true
