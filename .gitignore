@@ -88,3 +88,5 @@ appdata/nginx/sites/*
 !appdata/nginx/common
 appdata/nginx/common/*
 !appdata/nginx/common/*.example
+
+.DS_Store
